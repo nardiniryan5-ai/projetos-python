@@ -1,5 +1,5 @@
 print("Bem Vindo ao Quiz de Astronomia!")
-
+def questoes_astronomia()
 questao1 = input("2. Quantos satélites naturais (luas) Marte possui? \nA) Nenhum \nB) Dois: Fobos e Deimos \nC) Um: Tritão \nD) Vinte ").upper()
 if questao1 == "B":
     print("Resposta correta!👍")
