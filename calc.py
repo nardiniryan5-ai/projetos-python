@@ -28,3 +28,6 @@ imc = calcular_imc(p, a)
 print(f"Seu IMC é: {imc:.2f}")
 classificar(imc)
 gerar_aviso(imc)
+
+
+
